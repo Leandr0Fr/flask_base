@@ -1,2 +1,2 @@
 # flask_base
-Proyecto base para futuros proyectos con Flask.
+Estructura basica para proyectos de flask utilizando flask_restx.
